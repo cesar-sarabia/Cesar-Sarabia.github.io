@@ -1,0 +1,26 @@
+{
+  "name": "Pablo César Sarabia Concha",
+  "dateBith": "14-Sep-1981",
+  "address": "Quito-Ecuador",
+  "phone": "59398231640",
+  "email": "cesar_sarabia_c@hotmail.com",
+
+  "education": [
+    {"id":1,"institucion": "Universidad Tecnológica Equinoccial"},
+    {"id":2,"institucion": "Pontificia Universidad Católica del Ecuador"}
+  ],
+
+  "courses": [
+    {"id":1,"institucion": "ISTQB-", "name":"Certified Tester Foundation Level (CTFL)", "place":"Quito-Ecuador", "date":"2014"},
+    {"id":2,"institucion": "Icontec", "name":"Implementación de Sistemas de Responsabilidad social bajo norma SA 8000", "place":"Medellín-Colombia", "date":"2013"},
+    {"id":3,"institucion": "CNT", "name":"Seguridad de la Información ISO27001", "place":"Quito-Ecuador", "date":"2013"},
+    {"id":4,"institucion": "FEI-IECAT-PUCE", "name":"Auditoria de Sistemas de Calidad Norma ISO 9000", "place":"Sao Paulo-Brasil", "date":"2011"},
+    {"id":5,"institucion": "CNT", "name":"Procesos ITIL V3", "place":"Quito-Ecuador", "date":"2011"},
+  ],
+
+  "Experience":[
+    {"id":1,"institucion": "Corporación Nacional de Telecomunicaciones", "place":"Quito-Ecuador", "date":"2015-Presente"},
+    {"id":2,"institucion": "Banco Central del Ecuador", "place":"Quito-Ecuador", "date":"2013-2014"}
+  ]
+ 
+}
